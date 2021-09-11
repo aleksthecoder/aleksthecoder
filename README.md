@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleksthecoder
 - 👀 I’m interested in website development.
-- 🌱 I’m currently learning JavaScripp.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on small beginner friendly projects.
 
 <!---
